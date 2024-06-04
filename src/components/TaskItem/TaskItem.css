@@ -1,0 +1,15 @@
+.task-item input[type="text"] {
+    flex-grow: 1;
+    margin-left: 10px;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.task-item input[type="checkbox"] {
+    transform: scale(1.5);
+}
+
+.task-item button {
+    padding: 5px 10px;
+}

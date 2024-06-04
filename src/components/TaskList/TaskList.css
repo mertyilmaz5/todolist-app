@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+ul li span {
+    flex-grow: 1;
+    margin-left: 10px;
+}
+
+ul li button {
+    margin-left: 10px;
+}
